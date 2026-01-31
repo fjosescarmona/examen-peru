@@ -11,17 +11,17 @@ Bienvenido. Aquí encontrarás la documentación oficial de mis librerías.
 
 ## 📦 Librerías disponibles
 
-### 🔹 Librería A
+### 🔹 Librería cache
 Documentación técnica y guías de uso.
 
-➡️ [Ver documentación de Librería A](/examen-peru/docs/lib-a.html)
+➡️ [Ver documentación de Librería A](https://fjosescarmona.github.io/libreria-cache/)
 
 ---
 
-### 🔹 Librería B
+### 🔹 Librería observabilidad
 Detalles de instalación, API y ejemplos.
 
-➡️ [Ver documentación de Librería B](/examen-peru/docs/lib-b.html)
+➡️ [Ver documentación de Librería B](https://fjosescarmona.github.io/libreria-observabilidad/)
 
 ---
 

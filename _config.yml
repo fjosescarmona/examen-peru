@@ -2,6 +2,5 @@ title: Mi Documentación
 description: Documentación centralizada de librerías
 theme: minima
 
-collections:
-  docs:
-    output: true
+# Opcional pero recomendado
+markdown: kramdown
