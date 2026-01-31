@@ -5,3 +5,4 @@ theme: minima
 collections:
   docs:
     output: true
+    permalink: /docs/:name/
