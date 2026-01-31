@@ -14,14 +14,14 @@ Bienvenido. Aquí encontrarás la documentación oficial de mis librerías.
 ### 🔹 Librería A
 Documentación técnica y guías de uso.
 
-➡️ [Ver documentación de Librería A](/docs/lib-a.html)
+➡️ [Ver documentación de Librería A](/examen-peru/docs/lib-a.html)
 
 ---
 
 ### 🔹 Librería B
 Detalles de instalación, API y ejemplos.
 
-➡️ [Ver documentación de Librería B](/docs/lib-b.html)
+➡️ [Ver documentación de Librería B](/examen-peru/docs/lib-b.html)
 
 ---
 
